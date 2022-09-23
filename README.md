@@ -30,3 +30,8 @@ npm install gulp --global
 
 gulp
 ```
+
+```sh
+npm install vue --save-dev
+npm i vue -D
+```
